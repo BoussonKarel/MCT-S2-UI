@@ -177,6 +177,10 @@ Alleen effect als breedte container > breedte alle items.
 	justify-content: space-evenly;
 }
 ```
+#### Vertical alignment modifiers
+Justify-content bepaalt de verdeling van de items op de main-axis.
+Alleen effect als breedte container > breedte alle items.
+
 
 ## Utilities
 ### Flex-basis & flex-grow
@@ -212,7 +216,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0ODUwMzUzLDgzOTIzNzM4MSwxNDc2Nz
+eyJoaXN0b3J5IjpbOTQ5NTY3NjcwLDgzOTIzNzM4MSwxNDc2Nz
 AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
 MzA3OTI4MF19
 -->
