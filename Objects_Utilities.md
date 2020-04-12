@@ -141,7 +141,32 @@ Plaatst de rij in omgekeerde volgorde, zonder de HTML volgorde te wijzigen.
 }
 ```
 
-#### Horizontal alignment mo
+#### Horizontal alignment modifiers
+```css
+.o-layout--justify-start {}
+
+/* Items beginnen langs vanachter */
+.o-layout--justify-end {
+	justify-content: flex-end;
+}
+
+/* Items wordne in  */
+.o-layout--justify-center {
+	justify-content: center;
+}
+
+.o-layout--justify-space-around {
+	justify-content: space-around;
+}
+
+.o-layout--justify-space-between {
+	justify-content: space-between;
+}
+
+.o-layout--justify-space-evenly {
+	justify-content: space-evenly;
+}
+```
 
 ## Utilities
 ### Flex-basis & flex-grow
@@ -177,7 +202,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYzNTE4NzYsODM5MjM3MzgxLDE0Nz
-Y3MDEwMDQsNTU5MDAwMzU3LDM1Njk3NjA1MSwzODk3OTE4MzEs
-ODAzMDc5MjgwXX0=
+eyJoaXN0b3J5IjpbMjAyNDg3MTA5OSw4MzkyMzczODEsMTQ3Nj
+cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
+MDMwNzkyODBdfQ==
 -->
