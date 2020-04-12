@@ -104,6 +104,11 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 	width: 100%;
 }
 ```
+### Modifiers
+#### Gutter modifiers
+De gutter modifiers zorgen voor een 
+
+
 ## Utilities
 ### Flex-basis & flex-grow
 Met u-x-of-y kan de flex-basis (grootte) van een o-layout__item aanpassen.
@@ -138,7 +143,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTk1NTYwNSw4MzkyMzczODEsMTQ3Nj
+eyJoaXN0b3J5IjpbLTgyNzg5MDQ0Miw4MzkyMzczODEsMTQ3Nj
 cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
 MDMwNzkyODBdfQ==
 -->
