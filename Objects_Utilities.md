@@ -84,7 +84,9 @@ _We maken daar een utility van omdat we dat op andere element, objecten en compo
 }
 ```
 
+# Layout system
 ## Object: layout
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMDc5MjgwXX0=
+eyJoaXN0b3J5IjpbLTk4NzA0NTUyMiw4MDMwNzkyODBdfQ==
 -->
