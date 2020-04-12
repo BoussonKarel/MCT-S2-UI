@@ -86,6 +86,12 @@ _We maken daar een utility van omdat we dat op andere element, objecten en compo
 
 # Layout system
 ## Object: layout
+Met het layout object kan je talloze responsive grid varianten maken.
+Het bestaat uit de block: o-layout en het element: o-layout__item.
+
+De block maakt gebruik van flexbox om elementen naast elkaar te plaatsen.
+
+Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat modifiers die de horizontal en verticale alignering van items bepaalt en om bijvoorbeeld items te reversen.
 ```css
 .o-layout {
 	display: -webkit-flex;
@@ -101,6 +107,6 @@ _We maken daar een utility van omdat we dat op andere element, objecten en compo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2OTc2MDUxLDM4OTc5MTgzMSw4MDMwNz
-kyODBdfQ==
+eyJoaXN0b3J5IjpbNTU5MDAwMzU3LDM1Njk3NjA1MSwzODk3OT
+E4MzEsODAzMDc5MjgwXX0=
 -->
