@@ -120,10 +120,17 @@ _De breedte is dan x/y van de volledige breedte (bv 4/5e)_
 	flex-basis: calc(100% / 2) !important;
 }
 ```
-Je kan dit ook instellen vanaf bepaalde breakpoints. Items komen dan standaard onder elkaar, maar vanaf een bepaalde 
-_De breedte is dan x/y van de volledige breedte (bv 4/5e)_
+Je kan dit ook instellen vanaf bepaalde breakpoints.
+Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
+```css
+@media (min-width: 576px) {
+	.u-1-of-2-bp1 {
+		flex-basis: calc(100% / 2) !important;
+	}
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzEzNjQzLDgzOTIzNzM4MSwxNDc2Nz
-AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
-MzA3OTI4MF19
+eyJoaXN0b3J5IjpbMTI4NDQwMzA0Miw4MzkyMzczODEsMTQ3Nj
+cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
+MDMwNzkyODBdfQ==
 -->
