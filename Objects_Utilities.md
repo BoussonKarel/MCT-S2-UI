@@ -178,8 +178,24 @@ Alleen effect als breedte container > breedte alle items.
 }
 ```
 #### Vertical alignment modifiers
-Justify-content bepaalt de verdeling van de items op de main-axis.
-Alleen effect als breedte container > breedte alle items.
+Bepaalt de alignment van de items op de cross-axis.
+```css
+.o-layout--align-start {
+	align-items: flex-start;
+}
+
+.o-layout--align-end {
+	align-items: flex-end;
+}
+
+.o-layout--align-center {
+	align-items: center;
+}
+
+.o-layout--align-baseline {
+	align-items: baseline;
+}
+```
 
 
 ## Utilities
@@ -216,7 +232,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NTY3NjcwLDgzOTIzNzM4MSwxNDc2Nz
-AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
-MzA3OTI4MF19
+eyJoaXN0b3J5IjpbLTEyODI2OTgyMDgsODM5MjM3MzgxLDE0Nz
+Y3MDEwMDQsNTU5MDAwMzU3LDM1Njk3NjA1MSwzODk3OTE4MzEs
+ODAzMDc5MjgwXX0=
 -->
