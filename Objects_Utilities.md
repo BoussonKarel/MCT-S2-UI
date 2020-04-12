@@ -20,7 +20,7 @@
 				<div  class="o-layout__item u-1-of-2-bp3">
 					<div  class="u-max-width-sm">
 						<p  class="c-lead c-lead--lg">
-							Accelerating the fight against cancer requires the entire industry to work together. Our products 					 connect community oncologists, academics, hospitals, life science researchers and regulators on a shared technology platform. <br>
+							Accelerating the fight against cancer requires the entire industry to work together. Our products connect community oncologists, academics, hospitals, life science researchers and regulators on a shared technology platform. <br>
 							Together, we can learn from the experience of every patient.
 						</p>
 					</div>
@@ -220,7 +220,7 @@ Bepaalt de alignment van de items op de cross-axis.
 }
 ```
 
-## Utilities
+## Utilities voor layout
 ### Flex-basis & flex-grow
 Met u-x-of-y kan de flex-basis (grootte) van een o-layout__item aanpassen.
 _De breedte is dan x/y van de volledige breedte (bv 4/5e)_
@@ -254,7 +254,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDM0Mjc2MywxNTc3Mzc5NTgwLDgzOT
-IzNzM4MSwxNDc2NzAxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEs
-Mzg5NzkxODMxLDgwMzA3OTI4MF19
+eyJoaXN0b3J5IjpbLTE3MDYxMDg1MDcsMTU3NzM3OTU4MCw4Mz
+kyMzczODEsMTQ3NjcwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUx
+LDM4OTc5MTgzMSw4MDMwNzkyODBdfQ==
 -->
