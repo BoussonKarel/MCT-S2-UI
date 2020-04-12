@@ -170,6 +170,7 @@ Alleen effect als breedte container > breedte alle items.
 	justify-content: space-between;
 }
 
+/*  */
 /* x ITEM x ITEM x ITEM x */
 .o-layout--justify-space-evenly {
 	justify-content: space-evenly;
@@ -210,7 +211,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5OTEwNTE5LDgzOTIzNzM4MSwxNDc2Nz
-AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
-MzA3OTI4MF19
+eyJoaXN0b3J5IjpbLTUwMDUzMzI0Myw4MzkyMzczODEsMTQ3Nj
+cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
+MDMwNzkyODBdfQ==
 -->
