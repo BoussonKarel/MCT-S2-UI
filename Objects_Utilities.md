@@ -86,7 +86,18 @@ _We maken daar een utility van omdat we dat op andere element, objecten en compo
 
 # Layout system
 ## Object: layout
+```css
+.o-layout {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-wrap: wrap;
+}
 
+.o-layout__item {
+	width: 100%;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzA0NTUyMiw4MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbMzg5NzkxODMxLDgwMzA3OTI4MF19
 -->
