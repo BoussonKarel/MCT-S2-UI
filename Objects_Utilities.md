@@ -198,6 +198,28 @@ Bepaalt de alignment van de items op de cross-axis.
 }
 ```
 
+```css
+.o-layout--align-content-start {
+	align-content: start;
+}
+
+.o-layout--align-content-end {
+	align-content: end;
+}
+
+.o-layout--align-content-center {
+	align-content: center;
+}
+
+.o-layout--align-content-space-around {
+	align-content: space-around;
+}
+
+.o-layout--align-content-space-between {
+	align-content: space-between;
+}
+```
+
 ## Utilities
 ### Flex-basis & flex-grow
 Met u-x-of-y kan de flex-basis (grootte) van een o-layout__item aanpassen.
@@ -232,7 +254,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzM3OTU4MCw4MzkyMzczODEsMTQ3Nj
-cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
-MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbLTgxNDM0Mjc2MywxNTc3Mzc5NTgwLDgzOT
+IzNzM4MSwxNDc2NzAxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEs
+Mzg5NzkxODMxLDgwMzA3OTI4MF19
 -->
