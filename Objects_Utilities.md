@@ -117,19 +117,13 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 	flex-basis: calc(100% / 2) !important;
 }
 ```
-
--   u-x-of-2 = calc(100% / 2) = 50%
--   u-x-of-3 = calc(100% / 3) = 33.3333333333%
--   u-x-of-4 = calc(100% / 4) = 25%
--   u-2-of-4 gebruiken we niet omdat dit vereenvoudigd kan worden naar u-1-of-2 = 50%
--   u-3-of-4 = calc(100% / 4 * 3) = 75%
+-   u-1-of-2 = calc(100% / 2) = 50%
+-   u-1-of-3 = calc(100% / 3) = 33.3333333333%
+-   u-1-of-4 = calc(100% / 4) = 25%
 -   u-1-of-5 = calc(100% / 5) = 20%
--   u-2-of-5 = calc(100% / 5 * 2) = 40%
--   …
 -   u-1-of-6 = calc(100% / 6) = 16.6666666667%
--   u-5-of-6 = calc(100% / 6 * 5) = 83.3333333333%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgzMzc4NjgsNTU5MDAwMzU3LDM1Nj
-k3NjA1MSwzODk3OTE4MzEsODAzMDc5MjgwXX0=
+eyJoaXN0b3J5IjpbMTQ3NjcwMTAwNCw1NTkwMDAzNTcsMzU2OT
+c2MDUxLDM4OTc5MTgzMSw4MDMwNzkyODBdfQ==
 -->
