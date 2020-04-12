@@ -153,19 +153,24 @@ Alleen effect als breedte container > breedte alle items.
 	justify-content: flex-end;
 }
 
-/* Items worden in het midden geplaatst */
+/* Links en rechts van de items is evenveel plaats */
 .o-layout--justify-center {
 	justify-content: center;
 }
 
+/* Links en rechts van het item is evenveel plaats */
+/* x ITEM x*2 ITEM x*2 ITEM x */
 .o-layout--justify-space-around {
 	justify-content: space-around;
 }
 
+/* Tussen de items is evenveel plaats */
+/* ITEM x ITEM x ITEM x */
 .o-layout--justify-space-between {
 	justify-content: space-between;
 }
 
+/* x ITEM x ITEM x ITEM x */
 .o-layout--justify-space-evenly {
 	justify-content: space-evenly;
 }
@@ -205,7 +210,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjQwMzgyOCw4MzkyMzczODEsMTQ3Nj
-cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
-MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbNDc5OTEwNTE5LDgzOTIzNzM4MSwxNDc2Nz
+AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
+MzA3OTI4MF19
 -->
