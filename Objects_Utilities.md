@@ -98,6 +98,9 @@ _We maken daar een utility van omdat we dat op andere element, objecten en compo
 	width: 100%;
 }
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NzkxODMxLDgwMzA3OTI4MF19
+eyJoaXN0b3J5IjpbMzU2OTc2MDUxLDM4OTc5MTgzMSw4MDMwNz
+kyODBdfQ==
 -->
