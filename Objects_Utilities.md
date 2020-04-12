@@ -104,6 +104,7 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 	width: 100%;
 }
 ```
+
 ```css
 .u-flex-basis-auto {
 	flex-basis: auto !important;
@@ -124,6 +125,7 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 -   u-1-of-6 = calc(100% / 6) = 16.6666666667%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjcwMTAwNCw1NTkwMDAzNTcsMzU2OT
-c2MDUxLDM4OTc5MTgzMSw4MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbMjQ3NzY3OTY2LDE0NzY3MDEwMDQsNTU5MD
+AwMzU3LDM1Njk3NjA1MSwzODk3OTE4MzEsODAzMDc5MjgwXX0=
+
 -->
