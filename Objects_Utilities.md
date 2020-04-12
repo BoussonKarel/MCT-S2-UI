@@ -104,7 +104,8 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 	width: 100%;
 }
 ```
-
+Met u-x-of-y kan de flex-basis van een o-layout__item aanpassen.
+_Zo kan je ervoor kiezen om de breedte x/y van de pagina te maken (bv. 4/5e)._
 ```css
 .u-flex-basis-auto {
 	flex-basis: auto !important;
@@ -125,7 +126,7 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 -   u-1-of-6 = calc(100% / 6) = 16.6666666667%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NzY3OTY2LDE0NzY3MDEwMDQsNTU5MD
+eyJoaXN0b3J5IjpbODM5MjM3MzgxLDE0NzY3MDEwMDQsNTU5MD
 AwMzU3LDM1Njk3NjA1MSwzODk3OTE4MzEsODAzMDc5MjgwXX0=
 
 -->
