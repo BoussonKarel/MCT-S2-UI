@@ -104,9 +104,33 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 	width: 100%;
 }
 ```
+```css
+.u-flex-basis-auto {
+	flex-basis: auto !important;
+}
 
+.u-flex-grow-1 {
+	flex-grow: 1  !important;
+}
+.u-1-of-2 {
+	flex-basis: calc(100% / 2) !important;
+}
+```
+
+-   u-flex-basis-auto = Hiermee wordt de flex-bais van het item afhankelijk van de content.
+-   u-1-of-2 = calc(100% / 2) = 50%
+-   u-1-of-3 = calc(100% / 3) = 33.3333333333%
+-   u-2-of-3 = calc(100% / 3 * 2) = 66.6666666667%
+-   u-1-of-4 = calc(100% / 4) = 25%
+-   u-2-of-4 gebruiken we niet omdat dit vereenvoudigd kan worden naar u-1-of-2 = 50%
+-   u-3-of-4 = calc(100% / 4 * 3) = 75%
+-   u-1-of-5 = calc(100% / 5) = 20%
+-   u-2-of-5 = calc(100% / 5 * 2) = 40%
+-   …
+-   u-1-of-6 = calc(100% / 6) = 16.6666666667%
+-   u-5-of-6 = calc(100% / 6 * 5) = 83.3333333333%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MDAwMzU3LDM1Njk3NjA1MSwzODk3OT
-E4MzEsODAzMDc5MjgwXX0=
+eyJoaXN0b3J5IjpbLTkyMjIwNjc0OSw1NTkwMDAzNTcsMzU2OT
+c2MDUxLDM4OTc5MTgzMSw4MDMwNzkyODBdfQ==
 -->
