@@ -165,12 +165,13 @@ Alleen effect als breedte container > breedte alle items.
 }
 
 /* Tussen de items is evenveel plaats */
-/* ITEM x ITEM x ITEM x */
+/* Eerste en laatste item plakken tegen de buitenrand */
+/* ITEM x ITEM x ITEM */
 .o-layout--justify-space-between {
 	justify-content: space-between;
 }
 
-/*  */
+/* Tussen de items is evenveel plaats */
 /* x ITEM x ITEM x ITEM x */
 .o-layout--justify-space-evenly {
 	justify-content: space-evenly;
@@ -211,7 +212,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDUzMzI0Myw4MzkyMzczODEsMTQ3Nj
-cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
-MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbOTQ0ODUwMzUzLDgzOTIzNzM4MSwxNDc2Nz
+AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
+MzA3OTI4MF19
 -->
