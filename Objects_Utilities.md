@@ -197,7 +197,10 @@ Bepaalt de alignment van de items op de cross-axis.
 	align-items: baseline;
 }
 ```
-#### 
+#### Vertical content alignment modifiers
+Bepaalt de alignment van de items op de cross-axis met meerdere lijnen t.o.v. de container.
+_Werkt enkel als de container hoger is dan alle items._
+_Werkt enkel als er meerdere lijnen zijn._
 ```css
 .o-layout--align-content-start {
 	align-content: start;
@@ -254,7 +257,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MzcyMjQxLC0xNzA2MTA4NTA3LDE1Nz
-czNzk1ODAsODM5MjM3MzgxLDE0NzY3MDEwMDQsNTU5MDAwMzU3
-LDM1Njk3NjA1MSwzODk3OTE4MzEsODAzMDc5MjgwXX0=
+eyJoaXN0b3J5IjpbMTQwNzc1MjkxNSwtMTcwNjEwODUwNywxNT
+c3Mzc5NTgwLDgzOTIzNzM4MSwxNDc2NzAxMDA0LDU1OTAwMDM1
+NywzNTY5NzYwNTEsMzg5NzkxODMxLDgwMzA3OTI4MF19
 -->
