@@ -109,11 +109,13 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 De gutter modifiers zorgen voor een padding links en rechts van de elementen, maar niet aan de buitenste zijkanten.
 
 ```css
-/* Dit haalt padding weg uiterst links en uiterst rechts
+/* Dit haalt padding weg uiterst links en uiterst rechts,
+zodat er enkel padding is TUSSEN de elementen */
 .o-layout--gutter {
 	margin: 0  -12px;
 }
 
+/* Padding L&R van elk child met de klasse o-layout__item */
 .o-layout--gutter > .o-layout__item {
 	padding: 0  12px;
 }
@@ -123,7 +125,6 @@ De gutter modifiers zorgen voor een padding links en rechts van de elementen, ma
 .o-layout--gutter-lg = 24px
 */
 ```
-
 
 ## Utilities
 ### Flex-basis & flex-grow
@@ -159,7 +160,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzA4ODE0OCw4MzkyMzczODEsMTQ3Nj
-cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
-MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbMzIyMTU4MDI5LDgzOTIzNzM4MSwxNDc2Nz
+AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
+MzA3OTI4MF19
 -->
