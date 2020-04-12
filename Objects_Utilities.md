@@ -126,6 +126,23 @@ zodat er enkel padding is TUSSEN de elementen */
 */
 ```
 
+#### Reverse horizontal row modifier
+Plaatst de rij in omgekeerde volgorde, zonder de HTML volgorde te wijzigen.
+```css
+.o-layout--row-reverse {
+	flex-flow: row-reverse;
+}
+```
+#### Reverse horizontal row modifier
+Plaatst de rij in omgekeerde volgorde, zonder de HTML volgorde te wijzigen.
+```css
+.o-layout--row-reverse {
+	flex-flow: row-reverse;
+}
+```
+
+#### Horizontal alignment mo
+
 ## Utilities
 ### Flex-basis & flex-grow
 Met u-x-of-y kan de flex-basis (grootte) van een o-layout__item aanpassen.
@@ -160,7 +177,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMTU4MDI5LDgzOTIzNzM4MSwxNDc2Nz
-AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
-MzA3OTI4MF19
+eyJoaXN0b3J5IjpbLTE4OTYzNTE4NzYsODM5MjM3MzgxLDE0Nz
+Y3MDEwMDQsNTU5MDAwMzU3LDM1Njk3NjA1MSwzODk3OTE4MzEs
+ODAzMDc5MjgwXX0=
 -->
