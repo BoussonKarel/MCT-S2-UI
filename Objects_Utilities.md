@@ -142,11 +142,13 @@ Plaatst de rij in omgekeerde volgorde, zonder de HTML volgorde te wijzigen.
 ```
 
 #### Horizontal alignment modifiers
+Justify-content bepaalt de verdeling van de items op de main-axis.
+Alleen effect als breedte container > breedte alle items.
 ```css
-/* Items sta */
+/* Items staan tegen de main-start */
 .o-layout--justify-start {}
 
-/* Items beginnen vanaf de main-end (volgorde blijft gelijk) */
+/* Items staan tegen de main-end (volgorde blijft gelijk) */
 .o-layout--justify-end {
 	justify-content: flex-end;
 }
@@ -203,7 +205,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTEyMTgzNSw4MzkyMzczODEsMTQ3Nj
+eyJoaXN0b3J5IjpbMTQ1NjQwMzgyOCw4MzkyMzczODEsMTQ3Nj
 cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
 MDMwNzkyODBdfQ==
 -->
