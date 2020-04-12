@@ -143,14 +143,15 @@ Plaatst de rij in omgekeerde volgorde, zonder de HTML volgorde te wijzigen.
 
 #### Horizontal alignment modifiers
 ```css
+/* Items sta */
 .o-layout--justify-start {}
 
-/* Items beginnen langs vanachter */
+/* Items beginnen vanaf de main-end (volgorde blijft gelijk) */
 .o-layout--justify-end {
 	justify-content: flex-end;
 }
 
-/* Items wordne in  */
+/* Items worden in het midden geplaatst */
 .o-layout--justify-center {
 	justify-content: center;
 }
@@ -202,7 +203,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDg3MTA5OSw4MzkyMzczODEsMTQ3Nj
+eyJoaXN0b3J5IjpbLTkxMTEyMTgzNSw4MzkyMzczODEsMTQ3Nj
 cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
 MDMwNzkyODBdfQ==
 -->
