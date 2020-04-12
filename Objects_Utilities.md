@@ -104,6 +104,7 @@ Met modifiers bepalen we de gutter op de items. Daarnaast heeft het heel wat mod
 	width: 100%;
 }
 ```
+## Utilities voor o-layout__item
 Met u-x-of-y kan de flex-basis (grootte) van een o-layout__item aanpassen.
 _De breedte is dan x/y van de volledige breedte (bv 4/5e)_
 ```css
@@ -119,9 +120,10 @@ _De breedte is dan x/y van de volledige breedte (bv 4/5e)_
 	flex-basis: calc(100% / 2) !important;
 }
 ```
-
+Je kan dit ook instellen vanaf bepaalde breakpoints. Items komen dan standaard onder elkaar, maar vanaf een bepaalde 
+_De breedte is dan x/y van de volledige breedte (bv 4/5e)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNjMxNDA4LDgzOTIzNzM4MSwxNDc2Nz
+eyJoaXN0b3J5IjpbMTcwMzEzNjQzLDgzOTIzNzM4MSwxNDc2Nz
 AxMDA0LDU1OTAwMDM1NywzNTY5NzYwNTEsMzg5NzkxODMxLDgw
 MzA3OTI4MF19
 -->
