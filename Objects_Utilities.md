@@ -177,6 +177,7 @@ Alleen effect als breedte container > breedte alle items.
 	justify-content: space-evenly;
 }
 ```
+
 #### Vertical alignment modifiers
 Bepaalt de alignment van de items op de cross-axis.
 ```css
@@ -196,7 +197,6 @@ Bepaalt de alignment van de items op de cross-axis.
 	align-items: baseline;
 }
 ```
-
 
 ## Utilities
 ### Flex-basis & flex-grow
@@ -232,7 +232,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI2OTgyMDgsODM5MjM3MzgxLDE0Nz
-Y3MDEwMDQsNTU5MDAwMzU3LDM1Njk3NjA1MSwzODk3OTE4MzEs
-ODAzMDc5MjgwXX0=
+eyJoaXN0b3J5IjpbMTU3NzM3OTU4MCw4MzkyMzczODEsMTQ3Nj
+cwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUxLDM4OTc5MTgzMSw4
+MDMwNzkyODBdfQ==
 -->
