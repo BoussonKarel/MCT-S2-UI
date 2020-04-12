@@ -197,7 +197,7 @@ Bepaalt de alignment van de items op de cross-axis.
 	align-items: baseline;
 }
 ```
-
+#### 
 ```css
 .o-layout--align-content-start {
 	align-content: start;
@@ -254,7 +254,7 @@ Items worden dus pas x/y van de volledige breedte vanaf een bepaalde min-width.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYxMDg1MDcsMTU3NzM3OTU4MCw4Mz
-kyMzczODEsMTQ3NjcwMTAwNCw1NTkwMDAzNTcsMzU2OTc2MDUx
-LDM4OTc5MTgzMSw4MDMwNzkyODBdfQ==
+eyJoaXN0b3J5IjpbNjY4MzcyMjQxLC0xNzA2MTA4NTA3LDE1Nz
+czNzk1ODAsODM5MjM3MzgxLDE0NzY3MDEwMDQsNTU5MDAwMzU3
+LDM1Njk3NjA1MSwzODk3OTE4MzEsODAzMDc5MjgwXX0=
 -->
